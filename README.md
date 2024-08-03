@@ -91,7 +91,7 @@ Copy
 1. Clone the repository
 2. Install required packages:
 pip install -r requirements.txt
-3. Place your CSV data files in the `data/` directory.
+3. Extract the CSV data files in the `data/` directory.
 4. Run the main analysis script:
 python scripts/main.py
 5. View the results in the `outputs/` directory:
