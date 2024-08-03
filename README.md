@@ -281,8 +281,9 @@ This code performs market basket analysis using the Apriori algorithm to find fr
 - Introduce new payment incentives to balance payment methods
 - Launch the re-engagement series for at-risk customers
 
-# Contact Information
-Walid Benzineb - benzinebwal@gmail.com
 
 # Conclusion
 This comprehensive analysis provides a data-driven foundation for strategic decision-making in our e-commerce business. By leveraging these insights and implementing the suggested actions, we can expect improvements in customer retention, average order value, and overall sales performance. The technical approach demonstrated here ensures that our strategies are based on robust data analysis and can be continually refined as new data becomes available.
+
+# Contact Information
+Walid Benzineb - benzinebwal@gmail.com
