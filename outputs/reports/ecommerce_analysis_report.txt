@@ -1,0 +1,52 @@
+
+    E-commerce Data Analysis Report
+
+    1. RFM Analysis
+       - Average Recency: 178.36 days
+       - Average Frequency: 4.32 orders
+       - Average Monetary Value: $34402.27
+    
+    2. Customer Segmentation
+    Customer_Segment
+Average Customers    0.525622
+Lost Customers       0.226940
+Best Customers       0.137628
+New Customers        0.109810
+
+    3. Top 5 Product Categories
+                       price
+productCategory         
+Tuna             1230070
+Ball             1223386
+Chips            1219688
+Gloves           1160732
+Chair            1114957
+
+    4. Market Basket Analysis
+       - Top 5 association rules:
+                                                                                                    antecedents                                                                                   consequents  antecedent support  consequent support   support  confidence   lift  leverage  conviction  zhangs_metric
+762108   (Awesome Metal Gloves, Handcrafted Bronze Shirt, Fantastic Granite Pants, Oriental Concrete Bacon)                  (Practical Concrete Keyboard, Tasty Fresh Sausages, Luxurious Cotton Gloves)            0.001453            0.001453  0.001453         1.0  688.0  0.001451         inf            1.0
+1013043        (Practical Cotton Fish, Awesome Bronze Shoes, Oriental Wooden Shirt, Luxurious Frozen Shirt)        (Small Metal Cheese, Gorgeous Bronze Cheese, Modern Bronze Ball, Elegant Plastic Bike)            0.001453            0.001453  0.001453         1.0  688.0  0.001451         inf            1.0
+1013041          (Small Metal Cheese, Awesome Bronze Shoes, Gorgeous Bronze Cheese, Luxurious Frozen Shirt)      (Practical Cotton Fish, Oriental Wooden Shirt, Modern Bronze Ball, Elegant Plastic Bike)            0.001453            0.001453  0.001453         1.0  688.0  0.001451         inf            1.0
+1013040              (Small Metal Cheese, Awesome Bronze Shoes, Modern Bronze Ball, Luxurious Frozen Shirt)  (Practical Cotton Fish, Oriental Wooden Shirt, Gorgeous Bronze Cheese, Elegant Plastic Bike)            0.001453            0.001453  0.001453         1.0  688.0  0.001451         inf            1.0
+1013039           (Small Metal Cheese, Awesome Bronze Shoes, Practical Cotton Fish, Luxurious Frozen Shirt)     (Modern Bronze Ball, Oriental Wooden Shirt, Gorgeous Bronze Cheese, Elegant Plastic Bike)            0.001453            0.001453  0.001453         1.0  688.0  0.001451         inf            1.0
+
+    5. Payment Method Distribution
+    paymentMethod
+ PayPal              791
+ Cash on Delivery    748
+Pay Later            738
+Credit Card          674
+
+    6. Age Distribution
+    age_group
+65+      707
+25-34    514
+45-54    479
+55-64    474
+35-44    473
+18-24    262
+<18       42
+
+    Visualizations have been saved as PNG files in the outputs/figures directory.
+    
